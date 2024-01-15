@@ -37,6 +37,7 @@ This is just the beginning! I plan to add more features, integrate JavaScript fo
    ```bash
    git clone https://github.com/supreetvajjarmatti/Amazon-Clone.git
 
+<img width="949" alt="Annotation 2024-01-15 104017" src="https://github.com/supreetvajjarmatti/Amazon-Clone/assets/119556076/df2aa640-b5c7-44dc-89c2-0567d7523b38">
 
 Open the project in your favorite code editor.
 
